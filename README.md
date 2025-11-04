@@ -1,1 +1,2 @@
-## 👋 I'm Zero 
+# 👋 Hello, I'm Zero 
+
