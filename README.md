@@ -1,10 +1,8 @@
-## 👋 Hello, I'm Zero 
-- I'm still trying to determine what I would like to be in the future
-- I'm a novice at best, but I continue to learn from mistakes
-
+# **👋 Hello, I'm Zero** 
 ## About Me
-- Currently building a UI using Python
-- I enjoy solving Python problems, especially on Leetcode
+    - I'm a student trying to master Python and its uses in Web Development, Machine Learning, Game Development and many more.
+    - I also have solve some leetcode problems using Python and have created projects using Python
+    - But I still have problems of relying entirely on AI on solving problems with my code and would love to know how 
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
