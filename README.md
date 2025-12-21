@@ -1,15 +1,10 @@
 # **👋 Hello, I'm Zero** 
 ## About Me
-    - I'm a student trying to master Python and its uses in Web Development, Machine Learning, Game Development and many more.
-    - I also have solve some leetcode problems using Python and have created projects using Python
-    - But I still have problems of relying entirely on AI on solving problems with my code and would love to know how 
+- I'm a student trying to master Python and its uses in Web Development, Machine Learning, Game Development and many more.
+- I also have solve some leetcode problems using Python and have created projects using Python
+- But I still have problems of relying entirely on AI on solving problems with my code and would love to know how 
 
 ## Skills
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?logo=python&logoColor=blue)
+- Python, Tkinter, Pygame
+- MySQL
 
-## 📊 GitHub Stats
-![Erlander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zero28947&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zero28947&layout=compact&theme=tokyonight)
