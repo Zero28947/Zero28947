@@ -7,4 +7,5 @@
 ## Skills
 - Python, Tkinter, Pygame
 - MySQL
+- HTML, CSS
 
