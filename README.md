@@ -1,11 +1,10 @@
 # **👋 Hello, I'm Zero** 
 ## About Me
-- I'm a student trying to master Python and its uses in Web Development, Machine Learning, Game Development and many more.
-- I also have solve some leetcode problems using Python and have created projects using Python
-- But I still have problems of relying entirely on AI on solving problems with my code and would love to know how 
+- I'm a college student whose got the basics down with python and currently learning other libraries relate to data science
+- I'm know some data structure and algorithm but still trying to master some of it
+- You might have notice that I have no repositories because some are private and I'm still trying to learn. Though I definitely try to make some public in the future
 
 ## Skills
-- Python, Tkinter, Pygame
+- Python
 - MySQL
-- HTML, CSS
 
